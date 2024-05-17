@@ -25,7 +25,7 @@ To download all the necessary dependencies, you can run: `pip install -r require
 Clone the repository or download the project files. nsure that python, other required packages along with the 'Aksharantar dataset' are installed in the project directory.</br>
 To clone the repository directly to you local machine, ensure git is installed, run the command: 
 </br>
-`git clone https://github.com/IT527/CS22S027-DL_Assignment_3.git`
+`git clone https://github.com/IT527/CS22S027_DL_Assignment_3`
 </br>
 </br>
 Alternatively, you can download the entire repository as a .zip file from the Download ZIP option provided by github.

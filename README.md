@@ -74,6 +74,6 @@ All the plots are generated and logged to wandb using this file only, while for 
 Fot attention heatamap labelling of hindi characters we have used the `NotoSansDevanagari-VariableFont_wdth,wght.ttf` file, which is present in project repository.
 </br>
 </br>
-The sweep details for choosing the hyperparameters, runs, sample images, and related plots can be viewed at: ``
+The sweep details for choosing the hyperparameters, runs, sample images, and related plots can be viewed at: `https://wandb.ai/cs22s027/Report%20Mark%203/reports/Assignment-3--Vmlldzo3OTg5NTky`
 
 

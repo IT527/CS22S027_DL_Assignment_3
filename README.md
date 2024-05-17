@@ -39,7 +39,7 @@ The possible arguments and respective values for 'OPTIONS' are shown in the tabl
 
 | Name | Default Value | Description |
 | :---: | :-------------: | :----------- |
-| `-wp`, `--wandb_project` | 'CS6910_Assignment_3' | Project name used to track experiments in Weights & Biases dashboard |
+| `-wp`, `--wandb_project` | 'CS6910_Assignment_3_run' | Project name used to track experiments in Weights & Biases dashboard |
 | `-we`, `--wandb_entity` | cs22s027  | Wandb Entity used to track experiments in the Weights & Biases dashboard. |
 | `-ehd`, `--encoder_hidden_dimension` | 256| Encoder hidden dimension size |
 | `-dhd`, `--decoder_hidden_dimension` | 256 |  Decoder hidden dimension size|

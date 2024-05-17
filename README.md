@@ -71,6 +71,8 @@ Look for line 22 in train.py file and enter your API key in the key variable.
 Included in the project is DL_Assignment_3.ipynb, compatible with Jupyter Notebook or Google Colab. It encompasses all the classes/functions, sweep operations, and logging utilities like heatmaps. For tailored runs, you may need to adjust configurations and uncomment sections in the notebook to log specific metrics or plots. The notebook serves as a practical reference for understanding the project's workflow. </br>
 All the plots are generated and logged to wandb using this file only, while for a new configuration one can run the train.py file as shown above.
 </br>
+Fot attention heatamap labelling of hindi characters we have used the `NotoSansDevanagari-VariableFont_wdth,wght.ttf` file, which is present in project repository.
+</br>
 </br>
 The sweep details for choosing the hyperparameters, runs, sample images, and related plots can be viewed at: ``
 

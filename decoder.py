@@ -8,6 +8,7 @@ import torch.nn.functional as F
 import wandb
 from tqdm import tqdm #To keep track of progress loops
 from arguments import *
+from accuracy import *
 from encoder import *
 from attention_mechanism import *
 from beam_search import *
